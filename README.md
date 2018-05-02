@@ -8,6 +8,6 @@ Our first foray into achieving our mission is to use electric vehicle batteries 
 
 ## Own an electric vehicle?
 
-We'd love you to take our survey about airport parking: [pulmo1.typeform.com/to/ovhms2]
+We'd love you to take our [survey](pulmo1.typeform.com/to/ovhms2) about airport parking
 
 ## If you'd like to get in contact with us fill in this form

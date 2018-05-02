@@ -12,4 +12,15 @@ We'd love you to take our [survey](https://pulmo1.typeform.com/to/ovhms2) about 
 
 ### If you'd like to get in contact with us please email julius@pulmo.co.uk
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfYl2NTzDBr4_wqza3R48I0BkAnp4p0N0YQSsfygnYk9khUIw/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+<button id="myBtn">Contact Form</button>
+
+<!-- The Modal -->
+<div id="myModal" class="modal">
+
+  <!-- Modal content -->
+  <div class="modal-content">
+    <span class="close">&times;</span>
+    <p><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfYl2NTzDBr4_wqza3R48I0BkAnp4p0N0YQSsfygnYk9khUIw/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe></p>
+  </div>
+
+</div>

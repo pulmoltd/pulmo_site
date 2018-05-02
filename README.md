@@ -11,5 +11,3 @@ Our first foray into achieving our mission is to use electric vehicle batteries 
 We'd love you to take our [survey](https://pulmo1.typeform.com/to/ovhms2) about airport parking
 
 ### If you'd like to get in contact with us please email julius@pulmo.co.uk
-
-<input type="text" id="name" name="name"/>

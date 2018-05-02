@@ -4,7 +4,7 @@ pulmo were started in early 2018 with the mission to use idle assets for environ
 
 ## What do we do?
 
-Our first foray into achieving our mission is to use electric vehicle batteries to help the electricity grid, therefore helping to increase amount of renewable generation and reduce the need for spend on upgrading the grid network
+Our first foray into achieving our mission is to use electric vehicle batteries to help balance the electricity grid, therefore helping to increase amount of renewable generation and reduce the need for spend on upgrading the grid network
 
 ## Own an electric vehicle?
 
